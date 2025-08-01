@@ -8,10 +8,10 @@ Sou uma futura profissional em Análise e Desenvolvimento de Sistemas, apaixonad
 
 Ainda estou no início da minha jornada, mas já estou construindo uma base sólida em:
 
-* *Python*: Para a lógica de programação e scripts.
-* *HTML & CSS*: Para construir a estrutura e o estilo de interfaces web.
-* *C++*: Para entender os fundamentos de programação e lógica.
-
+* **Python**: Para a lógica de programação e scripts.
+* **HTML & CSS**: Para construir a estrutura e o estilo de interfaces web.
+* **C++**: Para entender os fundamentos de programação e lógica.
+  
 ## Meus Valores 💡
 
 Me considero uma pessoa movida pela curiosidade e pelo desejo de evoluir. Para mim, o aprendizado é uma jornada contínua, e o comprometimento é a força motriz que me impulsiona a superar desafios.
@@ -20,9 +20,11 @@ Me considero uma pessoa movida pela curiosidade e pelo desejo de evoluir. Para m
 
 Fique à vontade para me seguir e acompanhar minha jornada de aprendizado.
 
-* *LinkedIn*: [https://www.linkedin.com/in/mariana-huth-648b31354/](https://www.linkedin.com/in/mariana-huth-648b31354/)
-* *Facebook*: [https://www.facebook.com/profile.php?id=100008248309079](https://www.facebook.com/profile.php?id=100008248309079)
-* *Instagram*: [https://www.instagram.com/marihuth_/](https://www.instagram.com/marihuth_/)
+#### Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-huth-648b31354/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008248309079)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marihuth_/)
 
 ## O que vem por aí?
 
