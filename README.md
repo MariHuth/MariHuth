@@ -1,33 +1,35 @@
----
 
-# Olá, sou a MariHuth! 👋
+# Olá, sou a Mari Huth! 👋
 
-Sou uma futura profissional em Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e sempre em busca de novos conhecimentos. Acredito que a competência e a dedicação são a base para qualquer jornada de sucesso.
+Profissional de **atendimento ao cliente** em transição para **Customer Success, Suporte e criação de soluções digitais**, como chatbots e sites para pequenos negócios.
 
-## Minhas Habilidades 🛠️
+## O que eu faço hoje 💬
 
-Ainda estou no início da minha jornada, mas já estou construindo uma base sólida em:
+- Atendimento ao cliente por chat, WhatsApp e e-mail
+- Respostas prontas, roteiros e fluxos de atendimento
+- Noções de Customer Success: jornada do cliente, retenção e métricas
+- Pacote Office e organização de documentos
+- Uso de inteligência artificial para atender com mais qualidade
 
-* **Python**: Para a lógica de programação e scripts.
-* **HTML & CSS**: Para construir a estrutura e o estilo de interfaces web.
-* **C++**: Para entender os fundamentos de programação e lógica.
-  
-## Meus Valores 💡
+## Habilidades em desenvolvimento 🛠️
 
-Me considero uma pessoa movida pela curiosidade e pelo desejo de evoluir. Para mim, o aprendizado é uma jornada contínua, e o comprometimento é a força motriz que me impulsiona a superar desafios.
+- **Python**: lógica de programação e scripts
+- **HTML & CSS**: estrutura e estilo de sites
+- **C++**: fundamentos de programação
+- **IA e chatbots**: criação de fluxos de atendimento automatizado
 
-## Vamos nos conectar! 🤝
+## Objetivo 🎯
 
-Fique à vontade para me seguir e acompanhar minha jornada de aprendizado.
+Unir **atendimento ao cliente** e **tecnologia** para criar sites e chatbots que ajudem pequenos negócios a atender melhor.
 
-#### Redes Sociais
+## Formação e cursos 🎓
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-huth-648b31354/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100008248309079)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marihuth_/)
+- Customer Success: SEBRAE (2 cursos)
+- Comunicação Escrita e Atendimento ao Público: Fundação Bradesco
+- Operador de Computador, Pacote Office: Unigran
+- Fluência Digital: Microsoft
+- Daxus Master IA (em andamento)
 
-## O que vem por aí?
+## Vamos conversar? 🤝
 
-Estou constantemente aprendendo e aplicando novos conceitos. Fique de olho neste perfil para ver meus futuros projetos e evoluções!
-
----
+[LinkedIn](https://www.linkedin.com/in/mariana-huth-648b31354) | huthmariana106@gmail.com
