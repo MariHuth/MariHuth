@@ -1,5 +1,5 @@
 
-# Olá, sou a Mari Huth! 👋
+# Olá, sou a Mariana Huth! 👋
 
 Profissional de **atendimento ao cliente** em transição para **Customer Success, Suporte e criação de soluções digitais**, como chatbots e sites para pequenos negócios.
 
